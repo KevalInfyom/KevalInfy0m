@@ -1,9 +1,9 @@
 # KevalInfyom
 
 <h1 align="center">Hi 👋, I'm Keval Beladiya</h1>
-<h3 align="center">A Passionate Android Native Developer From India</h3>
+<h3 align="center">A Passionate Android Native & Flutter Developer From India</h3>
 
-<img align ="right" alt="developer" width="400" height="320" src="https://thumbs.gfycat.com/DesertedThoseBluet-mobile.mp4">
+<img align ="right" alt="developer" width="400" height="320" src="https://media.giphy.com/media/kCVIL0CLNWv2E/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KevalInfyom&label=Profile%20views&color=0e75b6&style=flat" alt="KevalInfyom" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **keval.beladiya@infyom.com**
 
-- ⚡ Fun fact **I am Android Native Developer👨‍💻**
+- ⚡ Fun fact **I am Android Native & Flutter Developer👨‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
