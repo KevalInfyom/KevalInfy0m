@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Keval Beladiya</h1>
 <h3 align="center">A Passionate Android Native & Flutter Developer From India</h3>
 
-<img align ="right" alt="developer" width="450" height="250" src="https://im5.ezgif.com/tmp/ezgif-5-b5c2c8604d.gif">
+<img align ="right" alt="developer" width="400" height="320" src="https://developer.android.com/static/guide/practices/ui_guidelines/images/article_icon_adaptive.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KevalInfyom&label=Profile%20views&color=0e75b6&style=flat" alt="KevalInfyom" /> </p>
