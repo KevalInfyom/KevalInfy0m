@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter,Dart.**
 
-- 💬 Ask me about **Java & Kotlin**
+- 💬 Ask me about **Java & Kotlin & Dart**
 
 - 📫 How to reach me **keval.beladiya@infyom.com**
 
